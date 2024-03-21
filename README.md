@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @carvalhets
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on python projects
+- ⚡ Fun fact: I know the capitals of every country in the world, except the tiny islands.
